@@ -1,0 +1,27 @@
+#board{
+    background-color:indigo;
+    width:100px;
+    height:100px;
+}
+
+.row{
+    width: 100px;
+height:100px;
+
+}
+
+
+.space{
+    widows: 12.5%;
+    height:12.5%;
+}
+
+
+.red{
+    background-color: red;
+}
+
+
+.black{
+    background-color: black;
+}

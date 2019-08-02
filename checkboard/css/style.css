@@ -1,0 +1,26 @@
+#board{
+    background-color:tan;
+    width: 600px;
+    height: 600px;
+}
+
+.row{
+height: calc(100%/8);
+display: flex;
+
+}
+
+
+.space{
+    flex: 1;
+}
+
+
+.red{
+    background-color:gold;
+}
+
+
+.black{
+    background-color: black;
+}
